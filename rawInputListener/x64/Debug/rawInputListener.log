@@ -1,0 +1,3 @@
+﻿  Listener.cpp
+C:\Users\Nodan\source\repos\rawInputListener\rawInputListener\Listener.cpp(46,8): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  rawInputListener.vcxproj -> C:\Users\Nodan\source\repos\rawInputListener\x64\Debug\rawInputListener.exe
